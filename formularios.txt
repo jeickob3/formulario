@@ -1,0 +1,238 @@
+<label>Nombre</label><br/>
+<input type="text"
+name="nombre"/>
+<br/>
+<label>ApellidoPaterno</label><br/>
+<input type="text"
+name="nombre"/>
+<br/>
+<label>ApellidoMaterno</label><br/>
+<input type="text"
+name="nombre"/>
+<br/>
+
+
+<form>
+<label>
+     Edad
+</label>
+<select>
+<option></option>
+<option> 20 </option>
+<option></option>
+<option> 21 </option>
+<option></option>
+<option> 22 </option>
+<option></option>
+<option> 23 </option>
+</select>
+</form>
+
+
+
+<body>
+<form>
+<label>Sexo</label>
+ <br/>
+<input type ="radio"
+Name= "Sexo"
+Id = "masculino"/>
+<label for = "maculino">
+masculino
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "Sexo"
+Id = "femenino"/>
+<label for = "femenino">
+femenino
+</label>
+<br/>
+<br/>
+</form>
+</body>
+
+
+
+
+<form>
+<label>
+     NACIONALIDAD
+</label>
+<select>
+<option></option>
+<option> mexicana </option>
+<option></option>
+<option> italiano </option>
+<option></option>
+<option> frances </option>
+<option></option>
+<option> chino </option>
+</select>
+</form>
+
+
+
+
+<label>TELEFONO</label><br/>
+<input type="text"
+name="TELEFONO"/>
+<br/>
+<label>E-MAIL</label><br/>
+<input type="text"
+name="E-MAIL"/>
+<br/>
+<label>DOMICILIO</label><br/>
+<input type="text"
+name="DOMICILIO"/>
+<br/>
+
+
+
+<body>
+<form>
+<label>INTERESES</label>
+ <br/>
+<input type ="radio"
+Name= "INTERESES"
+Id = "musica"/>
+<label for = "musica">
+musica
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "INTERESES"
+Id = "tv"/>
+<label for = "tv">
+tv
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "INTERESES"
+Id = "libros"/>
+<label for = "libros">
+libros
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "INTERESES"
+Id = "deportes"/>
+<label for = "deportes">
+deportes
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "INTERESES"
+Id = "tecnologia"/>
+<label for = "tecnologia">
+tecnologia
+</label>
+<br/>
+<br/>
+</body>
+</form>
+
+
+
+
+<body>
+<form>
+<label>ULTIMO GRADO DE  ESTUDIOS</label>
+ <br/>
+<input type ="radio"
+Name= "ULTIMO GRADO DE ESTUDIOS"
+Id = "ninguno"/>
+<label for = "ninguno">
+ninguno
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "ultimo grado de estudios"
+Id = "primaria"/>
+<label for = "primaria">
+primaria
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "ultimo grado de estudios"
+Id = "secundaria"/>
+<label for = "secundaria">
+secundaria
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "ultimo grado de estudios"
+Id = "preparatoria"/>
+<label for = "preparatoria">
+preparatoria
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "ultimo grado de estudios"
+Id = "lisenciatura"/>
+<label for = "lisencitura">
+licenciatura
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "ultimo grado de estudios"
+Id = "maestria"/>
+<label for = "maestria">
+maestria
+</label>
+<br/>
+<br/>
+<input type ="radio"
+Name= "ultimo grado de estudios"
+Id = "doctorado"/>
+<label for = "doctorado">
+doctorado
+</label>
+<br/>
+<br/>
+</form>
+</body>
+
+
+
+
+
+
+
+
+<form action = "guardar.php" method = "get">
+<textarea
+Name="descripcion"
+Rows= "10"
+Cols = "40" >
+      Hola mundo
+</textarea>
+<input type = "submit" value = "ok">
+</form>
+
+
+
+<form action = "guardar.php" method = "get">
+<textarea
+Name="descripcion"
+Rows= "10"
+Cols = "40" >
+      Hola mundo
+</textarea>
+<input type = "submit" value = "ok">
+</form>
+
+
+
+
+Type  = "reset"    type = "submit"
